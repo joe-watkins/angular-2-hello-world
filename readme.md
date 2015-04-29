@@ -4,8 +4,11 @@ This is a starter app based on the [Yeoman generator](https://github.com/swirlyc
 
 ## Set up
 This requires [Gulp](http://gulpjs.com/) :)
+
 1. `npm install`
+
 2. `gulp dev` to watch for build changes
+
 3. `gulp serve` to serve from the build folder
 
 ## Dev
